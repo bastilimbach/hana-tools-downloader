@@ -1,0 +1,20 @@
+{
+  "name": "hana-tools-downloader",
+  "version": "0.0.1",
+  "description": "Package which provides a convenient way to download zip files from tools.hana.ondemand.com",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": "https://github.com/bastilimbach/hana-tools-downloader",
+  "bugs": "https://github.com/bastilimbach/hana-tools-downloader/issues",
+  "author": "Sebastian Limbach <hello@sebastianlimbach.com>",
+  "license": "MIT",
+  "keywords": [
+    "openui5",
+    "sapui5",
+    "runtime",
+    "local",
+    "sap",
+    "webide",
+    "abap"
+  ]
+}
